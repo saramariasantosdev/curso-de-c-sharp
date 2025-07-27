@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exercicios", "exercicios", "{BAC9D906-05E2-9CB0-68A0-DE46599E1ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex001", "exercicios\ex001\ex001.csproj", "{E69881B2-0718-2294-5586-F01BBBCAD58B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E69881B2-0718-2294-5586-F01BBBCAD58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69881B2-0718-2294-5586-F01BBBCAD58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69881B2-0718-2294-5586-F01BBBCAD58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69881B2-0718-2294-5586-F01BBBCAD58B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E69881B2-0718-2294-5586-F01BBBCAD58B} = {BAC9D906-05E2-9CB0-68A0-DE46599E1ECB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46DF58E1-8541-4E2E-86DD-B39E67608E3D}
+	EndGlobalSection
+EndGlobal
